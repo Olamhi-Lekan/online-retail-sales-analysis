@@ -226,7 +226,7 @@ The dataset is now structured, consistent, and ready for analysis.
 
 The cleaned dataset will be used to build an analytical dashboard in Microsoft Power BI, focusing on:
 
-* Sales trends over time
+* Revenue trends over time
 
 * Product performance
 
@@ -234,4 +234,4 @@ The cleaned dataset will be used to build an analytical dashboard in Microsoft P
 
 * Geographic sales distribution
 
-* Revenue insights
+
